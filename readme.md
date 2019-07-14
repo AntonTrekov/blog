@@ -1,1 +1,1 @@
-[trekov.ru](http://trekov.ru) source code
+[blog.trekov.ru](http://blog.trekov.ru) source code
